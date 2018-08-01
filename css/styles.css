@@ -1,0 +1,39 @@
+* {
+  background-color: #E6BF74;
+}
+
+h1, h2 {
+  color: #746477;
+}
+
+body{
+  text-align: center;
+}
+
+img {
+  width: 300px;
+  height: 400px;
+  float:left;
+  padding: 8px;
+
+}
+
+
+.proj1 {
+  position: relative;
+  width: 100%;
+
+}
+.proj2 {
+  position: relative;
+  width: 100%;
+}
+.proj3 {
+  position: relative;
+  width: 100%;
+}
+
+.child {
+  display: inline-block;
+  outline: 1px solid #746477;
+}
